@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Helder1989
 
 - 🔭 Hoje trabalho com Customer Experience (CX) 
-- 🌱 Estudando SQL, Python, Power BI, Git e Cloud Computing (AWS)
+- 🌱 Desenvolvendo em SQL, Python, Power BI, Git e Cloud Computing (AWS)
 - 💬 Contate-me no email: helder198922@gmail.com
 
 <div>
