@@ -1,7 +1,8 @@
 ### Olá! Eu sou o Helder1989
 
-- 🔭 Hoje trabalho com Customer Experience (CX) 
-- 🌱 Desenvolvendo em SQL, Python, Power BI, Git e Cloud Computing (AWS)
+- 🔭 Atuação como Desenvolcedor Python (CX) 
+- 🌱 Desenvolvendo em SQL, Python, Databricks e Cloud Computing (AWS)
+- AWS Certified Cloud Practitioner (https://www.credly.com/badges/87cd5169-2464-4a1c-bf16-86e2e015eddc)
 - 💬 Contate-me no email: helder198922@gmail.com
 
 <div>
