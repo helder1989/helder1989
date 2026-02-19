@@ -7,7 +7,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF9900&center=true&vCenter=true&width=650&lines=DevOps+Engineer;AWS+%7C+Terraform+%7C+GitLab+CI%2FCD;Amazon+ECS+%7C+RDS+%7C+Microservices;3x+AWS+Certified+%7C+Azure+AZ-900)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helder-claudio-da-silva-59072a16a/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:helder198922@gmail.com)
 
 </div>
 
